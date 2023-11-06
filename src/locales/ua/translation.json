@@ -1,0 +1,16 @@
+{
+    "select_an_operation": "Виберіть операцію",
+    "withdraw_funds": "Зняти кошти",
+    "up_to": "До",
+    "other_amount": "Інша сума",
+    "deposit_funds": "Внести кошти",
+    "to_the_card": "На карту",
+    "account": "Рахунок",
+    "all_operations": "Всі операції",
+    "loan_repayment": "Погашення кредиту, etc.",
+    "open_list_services": "Відкрити список послуг",
+    "currency_exchange": "Обмін валют",
+    "buy": "Купити",
+    "sell": "Продати",
+    "bank_info": "Інформаційний блок банку"
+}
